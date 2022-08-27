@@ -18,7 +18,7 @@ if on windows run `Compile.bat` in cmd
 else if you are on MacOS/Linux or any unix based system run `chmod +x Compile.sh` and `./Compile.sh`
 
 ### No python on your system ? No problem
-Binaries for **TermDrop_Encoder** provided in the [release]() section
+Binaries for **TermDrop_Encoder** provided in the [release](https://github.com/GhostNaix/TermDrop/releases/latest) section
 
 as for **TermDrop_Decoder.sh** there are no dependencies except for basic linux/unix system utlities such as
 base64 and tar ensure that the target system has these two binaries and are accessible by you.
